@@ -3,7 +3,7 @@ class Box {
     int value; 
 }
 
-public class Main2 {
+public class DiffMain2 {
 
     public static void change(Box b, int x) {
         b.value = 99;       // affects original object

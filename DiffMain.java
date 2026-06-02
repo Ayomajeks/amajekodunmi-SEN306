@@ -1,4 +1,4 @@
-public class Main {
+public class DiffMain {
     public static void increment(int x) { x = x + 1; }
     public static void main(String[] args) {
         int a = 5;
